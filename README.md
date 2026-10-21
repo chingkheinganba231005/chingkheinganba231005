@@ -2,7 +2,7 @@
 
 **BEng (Artificial Intelligence and Data Science) · The University of Hong Kong**
 
-I work on machine learning and computer vision, with particular interests in visual representation learning, generative models, and low-resource language technology. My projects span recognition research, differentiable rendering, and data-driven simulation. I am interested in contributing to academic research in deep learning and computer vision.
+I work on machine learning and computer vision, with particular interests in visual representation learning, generative models, and low-resource language technology. My projects span across Computer vision , recognition research, differentiable rendering, surrogate modelling and neural network expressivity and optimisation . I am interested in contributing to academic research in deep learning and computer vision.
 
 ## Research
 
