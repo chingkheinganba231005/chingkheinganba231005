@@ -3,11 +3,11 @@
 **BEng (Artificial Intelligence and Data Science) · The University of Hong Kong · Class of 2029**  
 Minor in Astronomy (intended)
 
-I work on machine learning for scientific problems: computer vision for low-resource scripts, surrogate modelling and scientific ML, and machine learning on real astronomical data. I care about careful evaluation: test sets that can't leak, honest cross-validation and uncertainty I can trust.
+I work on machine learning for scientific problems: computer vision for low-resource scripts, surrogate modelling and scientific ML, and machine learning on real astronomical data.
 
-I'm looking for **machine learning, data science and research internships for summer 2027**.
 
-## Research
+
+## Research 
 
 Two sole-author papers on handwritten Meitei Mayek, the script of Manipuri:
 
@@ -19,7 +19,7 @@ The first recogniser that reads whole handwritten Meitei Mayek words without seg
 *Under review at Scientific Reports (Springer Nature) · [Live demo](https://huggingface.co/spaces/Chingkheinganba/handwritten-meitei-mayek-recognition)*  
 Fine-tuned and ensembled six ImageNet-pretrained CNNs for 55-class handwritten character recognition. **New state of the art: 98.12% accuracy** on the official TUMMHCD test set, up from 97.08% (35% fewer errors), with ablations, error analysis and reproducible experiments.
 
-## Open source
+## Open source Contributions
 
 **[scikit-learn](https://github.com/scikit-learn/scikit-learn)**  
 - [#35200](https://github.com/scikit-learn/scikit-learn/pull/35200): clearer "empty vocabulary" error in `CountVectorizer` and `TfidfVectorizer` when `ngram_range` is the cause (issue #33981), with regression tests.  
@@ -40,7 +40,7 @@ Autograd machine-learning library from scratch · matrix multiplication ~25× fa
 
 - **[Trees vs Breath](https://github.com/chingkheinganba231005/Trees-vs-breathe)**: Physics-informed decision-support prototype for studying how street trees affect heat and pedestrian exposure to air pollution. I led the team to the **top 8 at HacKU 2026**.
 - **[Reading by Redrawing](https://github.com/chingkheinganba231005/Meitei-Mayek-Redraw)**: Handwritten character recognition with differentiable Bézier-stroke reconstruction and controlled gradient routing.
-- **[manitex](https://github.com/chingkheinganba231005/manipuri-textile)**: Research prototype for digitising and generating Manipuri textile patterns with a structure-aware discrete diffusion model and loom-ready design compilation. *Diffusion-model training pending.*
+
 - **[TailSafe](https://github.com/chingkheinganba231005/Tail_Safe)**: Monte Carlo evacuation stress testing with risk metrics, counterfactual analysis and a graph-neural-network surrogate. *Simulation research prototype, not a certified safety assessment.*
 
 ## Honours
